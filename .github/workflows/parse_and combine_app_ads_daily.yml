@@ -1,4 +1,4 @@
-name: Parse and Combine App Ads Daily
+name: Parse and Combine App Ads Daily.
 
 on:
   schedule:
